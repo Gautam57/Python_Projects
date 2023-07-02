@@ -1,1 +1,1 @@
-# Quit Game Project
+# Quiz Game Project
